@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.font-handwriting {
+  font-family: 'Indie Flower', cursive;
+}
